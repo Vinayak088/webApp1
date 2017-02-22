@@ -1,0 +1,11 @@
+<!Doctype html>
+<html>
+<body>
+<img src="a.jpg" alt="hi" style="width:304px;height:228px;">
+</body>
+</html>
+
+
+
+
+
